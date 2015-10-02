@@ -1,6 +1,8 @@
 The Contiki Operating System
 ============================
 
+[![Join the chat at https://gitter.im/drasko/contiki](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/drasko/contiki?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/contiki-os/contiki.svg?branch=master)](https://travis-ci.org/contiki-os/contiki/branches)
 
 Contiki is an open source operating system that runs on tiny low-power
